@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/burak--akkaya/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<a href="https://github.com/akkayaburak/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkayaburak&layout=compact&repo=github-readme-stats" />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akkayaburak&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkayaburak&layout=compact" />
 </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkayaburak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=akkayaburak&count_private=true&show_icons=true)
