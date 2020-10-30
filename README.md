@@ -7,4 +7,4 @@
 </p>
 
 
-![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=akkayaburak&show_icons=true&theme=radical)
+![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=akkayaburak&count_private=true&show_icons=true&theme=radical)
