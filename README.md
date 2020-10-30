@@ -9,13 +9,13 @@ My name is Burak Akkaya and I'm a software developer who graduated from CS. I'm 
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Mac>-informational?style=flat&logo=<mac>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<C#>-informational?style=flat&logo=<csharp>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=<java>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<javascript>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Editor>-<IntelliJ_IDEA>-informational?style=flat&logo=<intellij-idea>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Editor>-<Visual_Studio>-informational?style=flat&logo=<visual-studio>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=<mac>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=<csharp>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<java>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<javascript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=<intellij-idea>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=<visual-studio>&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/akkayaburak/akkayaburak">
