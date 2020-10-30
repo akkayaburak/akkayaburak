@@ -7,4 +7,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkayaburak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=akkayaburak&count_private=true&show_icons=true&theme=radical)
+![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=akkayaburak&count_private=true&show_icons=true)
