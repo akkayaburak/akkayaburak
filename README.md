@@ -1,5 +1,5 @@
 
-# Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Burak Akkaya and I'm a software developer who graduated from CS. I'm from Turkey, living in Turkey.
 <p align='center'>
