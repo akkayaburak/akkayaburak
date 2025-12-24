@@ -1,10 +1,4 @@
 
-# 💫About Me :
-🔭 I’m currently working on my tech skills.
-🌱 I’m currently learning more about web development.
-🤔 I’m looking for help with exploring new technologies.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - burkakkaya8@gmail.com
 ⚡ Fun fact: I am not fun :(
 
 ## 🌐Socials
